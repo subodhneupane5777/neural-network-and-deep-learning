@@ -1,4 +1,4 @@
-# Assignment 4 - Neural Network Training
+# Assignment 3 - Neural Network Training
 
 This assignment implements neural network training and evaluation on UCI datasets.
 
